@@ -20,7 +20,7 @@ bash scripts/train_ucfhmdb.sh
 
 - If you find this paper/code useful, please consider citing our paper:
 ```
-@inproceedings{lin2022partial,
+@inproceedings{lin2023diversify,
   author       = {Kun-Yu Lin and Jia-Run Du and Yipeng Gao and Jiaming Zhou and Wei-Shi Zheng},
   title        = {Diversifying Spatial-Temporal Perception for Video Domain Generalization},
   booktitle    = {NeurIPS 2023},
